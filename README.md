@@ -1,4 +1,11 @@
 # Sodoku Solver
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 ## How to use
 - **Parameters:**
     - `-p <file_name>` to print the solution into a file
@@ -45,3 +52,15 @@
                 margin-bottom: 10px;
                 margin-top: 25px;
                 width: 75%;" />
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/TrRollet/Sodoku-Solver.svg?style=for-the-badge
+[contributors-url]: https://github.com/TrRollet/Sodoku-Solver/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TrRollet/Sodoku-Solver.svg?style=for-the-badge
+[forks-url]: https://github.com/TrRollet/Sodoku-Solver/network/members
+[stars-shield]: https://img.shields.io/github/stars/TrRollet/Sodoku-Solver.svg?style=for-the-badge
+[stars-url]: https://github.com/TrRollet/Sodoku-Solver/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TrRollet/Sodoku-Solver.svg?style=for-the-badge
+[issues-url]: https://github.com/TrRollet/Sodoku-Solver/issues
+[license-shield]: https://img.shields.io/github/license/TrRollet/Sodoku-Solver.svg?style=for-the-badge
+[license-url]: https://github.com/TrRollet/Sodoku-Solver/blob/main/LICENSE
